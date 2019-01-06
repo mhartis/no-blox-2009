@@ -1,2 +1,2 @@
 # no-blox-2009
-Installer is currently killswitched, no plans of reactivating it.
+Installers are currently killswitched, no plans of reactivating it.
