@@ -1,2 +1,2 @@
-# no-blox-2009
+# no-blox-bootstrappers
 Installers are currently killswitched, no plans of reactivating it.
